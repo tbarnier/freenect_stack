@@ -2,6 +2,11 @@
 Changelog for package freenect_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Including log4cxx in CMakefile file. Compilation on OS X fails without this.
+* Contributors: Nick Hawes
+
 0.3.2 (2014-01-17)
 ------------------
 * Add include for log4cxx/logger.h (`#10`_).
